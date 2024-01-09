@@ -6,6 +6,6 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=Express,nodejs,py,mongo" />
+    <img src="https://skillicons.dev/icons?i=express,nodejs,py,mongo" />
   </a>
 </p>
