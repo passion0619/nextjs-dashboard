@@ -9,3 +9,5 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
     <img src="https://skillicons.dev/icons?i=express,nodejs,next,mongo,redux" />
   </a>
 </p>
+
+2024-01-17
